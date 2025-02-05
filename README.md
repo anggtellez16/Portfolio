@@ -29,7 +29,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 ### Brewing Recommendations: A Data-Driven Approach to Coffee Recommendations Using Linear Algebra
 
-Code: [Analyzing the Factors Contributing to the Success of a Movie.ipynb](https://github.com/anggtellez16/Portfolio/blob/main/Brewing_Recommendations.ipynb)
+Code: [Brewing Recommendations.ipynb](https://github.com/anggtellez16/Portfolio/blob/main/Brewing_Recommendations.ipynb)
 
 Goal: To determine what factors contribute the most to a movie's success.
 
