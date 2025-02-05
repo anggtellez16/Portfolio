@@ -17,4 +17,38 @@ This repository is to showcase skills, share projects and track my progress in D
 
 * [About](https://github.com/anggtellez16/Portfolio/blob/main/README.md#About)
 
+* [Projects](https://github.com/anggtellez16/Portfolio/blob/main/README.md#Projects)
 
+* [Education](https://github.com/anggtellez16/Portfolio/blob/main/README.md#Education)
+
+* [Contact](https://github.com/anggtellez16/Portfolio/blob/main/README.md#Contact)
+
+
+## Projects
+In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
+
+### Brewing Recommendations: A Data-Driven Approach to Coffee Recommendations Using Linear Algebra
+
+Code: [Analyzing the Factors Contributing to the Success of a Movie.ipynb](https://github.com/anggtellez16/Portfolio/blob/main/Brewing_Recommendations.ipynb)
+
+Goal: To determine what factors contribute the most to a movie's success.
+
+Description: This project explores the application of linear algebra to develop a personalized coffee recommendation system based on individual preferences. We created a mathematical model that uses these preferences to recommend five coffee beans tailored to specific users. Through this research, we demonstrate how linear algebra concepts (such as the dot product, vector normalization) can inform everyday choices, down to the specific coffee we enjoy. In the future, we aim to gather real user data to refine the model, ideally generating accurate recommendations with even fewer inputs.
+
+Skills: data cleaning, data analysis, and correlation matrices.
+
+Technology: Python, Pandas, and Numpy.
+
+Results: Using Python functions, the analysis demonstrated that a versatile recommendation system can be built using linear algebra concepts.
+
+## Education
+
+New York City College of Technology CUNY, Bachelor of Science - BS, Applied Mathematics, Sep 2022 - Dec 2025
+
+New York City College of Technology CUNY, Associate in Science - AS, Computer Science, Sep 2022 - Dec 2025
+
+## Contact
+
+* LinkedIn: [@angelicatellez](https://www.linkedin.com/in/angelica-tellez/)
+
+* Email: angg.tellez16@gmail.com
