@@ -8,5 +8,13 @@ During my studies, I developed a strong ability to analyze complex data, identif
 
 Beyond academics, I am passionate about exploring new data analysis tools and techniques, constantly seeking opportunities to expand my expertise. I thrive on uncovering valuable insights and using data to solve complex problems.
 
-My Resume in [pdf](https://github.com/anggtellez16/Portfolio/blob/main/RESUME.pdf)
+My Resume in [pdf](https://github.com/anggtellez16/Portfolio/blob/main/RESUME.pdf).
+
+This repository is to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
+
+
+## Table of Contents
+
+* [About](https://github.com/anggtellez16/Portfolio/blob/main/README.md#About)
+
 
