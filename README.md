@@ -48,7 +48,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 ### Graph Theory and GitHub
 
-Presentation: [Graph Theory and GitHub Poster](https://github.com/anggtellez16/Portfolio/blob/main/Graph%20Theory%20and%20GitHub%20Poster.pdf)
+**Presentation**: [Graph Theory and GitHub Poster](https://github.com/anggtellez16/Portfolio/blob/main/Graph%20Theory%20and%20GitHub%20Poster.pdf)
 
 
 **Goal**: This research explores the fundamentals of graph theory and its application in GitHub’s version control system, demonstrating how directed graphs facilitate collaboration, project management, and software development.  
