@@ -46,6 +46,27 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Results**: Using Python functions, the analysis demonstrated that a versatile recommendation system can be built using linear algebra concepts.
 
+### **Orbit: An AI-Powered Neurodivergent-Friendly Chatbot**  
+
+Hackathon Submission for FemmeHacks at the University of Pennsylvania. Submission [here](https://devpost.com/software/adhd-w70jbo?_gl=1*cadw6*_gcl_au*MTE1MDkxNDYxLjE3NDAxNzM1MDM.*_ga*MTgyNjU4NTUzMS4xNzQwMTczNTA0*_ga_0YHJK3Y10M*MTc0MDE3MzUwNC4xLjEuMTc0MDE3NDIzOC4wLjAuMA..).
+
+**Goal:**  This project aims to develop an **AI-powered chatbot** designed to support students with ADHD and neurodivergent tendencies by offering personalized productivity assistance.  
+
+**Description:**  Orbit is a chatbot that enhances focus and productivity by adapting to different user needs. It features:  
+- Low Stimulation Mode for a minimalist, distraction-free experience.  
+- Dopamine Mode with colors, animations, and motivational messages.  
+- Task prioritization using AI-powered smart sorting.  
+- Break reminders, sticky notes, and a one-task-at-a-time view to reduce distractions.  
+
+The chatbot was created to address gender disparities in ADHD diagnoses, particularly the tendency for women to be underdiagnosed due to their internally suppressive symptoms. By integrating AI, we sought to build a customizable, neurodivergent-friendly productivity tool.  
+
+**Skills:**  AI Development, User-Centered Design, and Task Management Optimization.  
+
+**Technology:**  Python, Streamlit, Google Gemini AI, Git, and GitHub.
+
+**Results:**  The chatbot successfully provided adaptive productivity support, balancing focus and engagement through customizable modes. The project also improved our AI integration, UI/UX design, and collaborative coding skills.  
+
+
 ### Graph Theory and GitHub
 
 **Presentation**: [Graph Theory and GitHub Poster](https://github.com/anggtellez16/Portfolio/blob/main/Graph%20Theory%20and%20GitHub%20Poster.pdf)
