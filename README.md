@@ -46,6 +46,21 @@ Source: This project utilizes the [Coffee Ratings Dataset](coffee_ratings.csv)
 
 Results: Using Python functions, the analysis demonstrated that a versatile recommendation system can be built using linear algebra concepts.
 
+### Graph Theory and GitHub
+
+Presentation: [Graph Theory and GitHub Poster](https://github.com/anggtellez16/Portfolio/blob/main/Graph%20Theory%20and%20GitHub%20Poster.pdf)
+
+
+Goal: This research explores the fundamentals of graph theory and its application in GitHub’s version control system, demonstrating how directed graphs facilitate collaboration, project management, and software development.  
+
+Description: This project examines how GitHub’s work tree applies graph theory to enable effective collaboration on complex projects. By visualizing commits as vertices and their relationships as directed edges, we demonstrate how GitHub systematically tracks project development. This structured approach, combined with a foundational understanding of graph theory, empowers professionals to manage projects efficiently, resolve conflicts, and maintain transparency in team-based environments.  
+
+Skills: Graph Theory Fundamentals and Version Control Systems.
+
+Technology: Python, Visual Studio Code, Git, and GitHub. 
+
+Results: By applying graph theory concepts, the study demonstrated how directed graphs structure GitHub’s workflow, offering insights into optimizing repository management, improving team collaboration, and enhancing project transparency.  
+
 ## Education
 
 New York City College of Technology CUNY, Bachelor of Science - BS, Applied Mathematics, Sep 2022 - Dec 2025
