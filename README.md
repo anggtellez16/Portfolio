@@ -48,7 +48,7 @@ ___
 
 **Results**: Using Python functions, the analysis demonstrated that a versatile recommendation system can be built using linear algebra concepts.
 
-__
+___
 
 ### **Orbit: An AI-Powered Neurodivergent-Friendly Chatbot**  
 
