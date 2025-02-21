@@ -39,7 +39,7 @@ Skills: data cleaning, data analysis, and correlation matrices.
 
 Technology: Python, Pandas, and Numpy.
 
-Source: This project utilizes the [Coffee Ratings Dataset](https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2020/2020-07-07/coffee_ratings.csv)
+Source: This project utilizes the [Coffee Ratings Dataset](coffee_ratings.csv)
  from [TidyTuesday](https://github.com/rfordatascience/tidytuesday), which contains detailed coffee quality ratings from the Coffee Quality Institute (CQI).
 
 Results: Using Python functions, the analysis demonstrated that a versatile recommendation system can be built using linear algebra concepts.
