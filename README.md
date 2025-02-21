@@ -27,6 +27,8 @@ This repository is to showcase skills, share projects and track my progress in D
 ## Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
+---
+
 ### Brewing Recommendations: A Data-Driven Approach to Coffee Recommendations Using Linear Algebra
 
 **Code**: [Brewing Recommendations.ipynb](https://github.com/anggtellez16/Portfolio/blob/main/Brewing_Recommendations.ipynb)
@@ -45,6 +47,8 @@ In this section I will list data analytics projects briefly describing the techn
  from [TidyTuesday](https://github.com/rfordatascience/tidytuesday), which contains detailed coffee quality ratings from the Coffee Quality Institute (CQI).
 
 **Results**: Using Python functions, the analysis demonstrated that a versatile recommendation system can be built using linear algebra concepts.
+
+---
 
 ### **Orbit: An AI-Powered Neurodivergent-Friendly Chatbot**  
 
@@ -68,6 +72,7 @@ The chatbot was created to address gender disparities in ADHD diagnoses, particu
 
 **Results:**  The chatbot successfully provided adaptive productivity support, balancing focus and engagement through customizable modes. The project also improved our AI integration, UI/UX design, and collaborative coding skills.  
 
+---
 
 ### Graph Theory and GitHub
 
