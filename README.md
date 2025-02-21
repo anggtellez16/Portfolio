@@ -31,6 +31,8 @@ In this section I will list data analytics projects briefly describing the techn
 
 Code: [Brewing Recommendations.ipynb](https://github.com/anggtellez16/Portfolio/blob/main/Brewing_Recommendations.ipynb)
 
+Presentation: [Brewing Reccomendations Poster](Brewing Reccomendations Poster.pdf)
+
 Goal: The goal of this research is to apply linear algebra concepts to develop a personalized coffee recommendation system that translates individual preferences into tailored selections, demonstrating the practical use of mathematical models in everyday decision-making.
 
 Description: This project explores the application of linear algebra to develop a personalized coffee recommendation system based on individual preferences. We created a mathematical model that uses these preferences to recommend five coffee beans tailored to specific users. Through this research, we demonstrate how linear algebra concepts (such as the dot product, vector normalization) can inform everyday choices, down to the specific coffee we enjoy. In the future, we aim to gather real user data to refine the model, ideally generating accurate recommendations with even fewer inputs.
