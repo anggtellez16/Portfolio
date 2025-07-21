@@ -25,7 +25,38 @@ This repository is to showcase skills, share projects and track my progress in D
 
 
 ## Projects
-In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
+
+### Economic Effects of COVID-19 on the U.S.: County-Level Analysis
+
+**Code**: *Available upon request*
+
+**Presentation**: [Economic Effects of COVID-19 on the U.S.: County-Level Analysis Poster.](https://github.com/anggtellez16/Portfolio/blob/main/Graph%20Theory%20and%20GitHub%20Poster.pdf) Findings presented to the Mathematical Association of America (MAA), [Page 20](http://sections.maa.org/metrony/meetings/spring2025.pdf), in April 2025.
+
+**Goal**: This project aimed to analyze large-scale county-level economic data to uncover trends and disparities in the economic impact of COVID-19 across the United States, offering insights for region-specific strategies in future public health and economic crises.
+
+**Description**: Conducted in collaboration with ORISE and the Department of Homeland Security, this project analyzed extensive county-level datasets to assess the pandemic’s economic effects. Using Python, we created five impactful visualizations and applied statistical analyses to reveal key trends:
+
+* Early vaccination supported modest GDP recovery in 2021.
+* A 10% increase in COVID spread correlated with an 8.4% rise in GDP, driven by higher population density in economically strong areas (not because spread boosted growth).
+* Increases in senior populations and unemployment rates led to GDP declines.
+* Counties with low COVID spread faced the least disruption and recovered faster by 2022, while medium-spread areas remained the most economically sensitive.
+
+**Skills**: data cleaning, statistical analysis, data visualization, correlation analysis, communicating technical findings to professional audiences.
+
+**Technology**: Python, Pandas, Numpy, Matplotlib, Seaborn.
+
+**Sources**:
+
+1. U.S. Census Bureau. [https://www.census.gov](https://www.census.gov)
+2. Johns Hopkins University, COVID-19 Resource Center. [https://coronavirus.jhu.edu](https://coronavirus.jhu.edu)
+3. USA Facts. [https://usafacts.org](https://usafacts.org)
+4. U.S. Department of Labor, Bureau of Labor Statistics. [https://www.bls.gov](https://www.bls.gov)
+5. U.S. Bureau of Economic Analysis. [https://www.bea.gov](https://www.bea.gov)
+6. Council for Community and Economic Research. [https://www.coli.org](https://www.coli.org)
+7. Centers for Disease Control and Prevention (CDC). [https://www.cdc.gov/respvaxview/about/index.html](https://www.cdc.gov/respvaxview/about/index.html)
+8. Yuce, et al. “Use of Population Weighted Density Index for Coronavirus Spread in the United States.” *Journal of Health Economics and Outcomes Research*, 2024; 11(2).
+
+**Results**: The project demonstrated how data science and statistical modeling can provide actionable insights for policymakers and highlighted the value of region-specific interventions in pandemic recovery efforts.
 
 ___
 
@@ -98,5 +129,3 @@ New York City College of Technology CUNY, Associate in Science - AS, Computer Sc
 ## Contact
 
 * LinkedIn: [@angelicatellez](https://www.linkedin.com/in/angelica-tellez/)
-
-* Email: angg.tellez16@gmail.com
